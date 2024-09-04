@@ -54,15 +54,15 @@ export default siteConfig({
   navigationLinks: [   
     {
       title: 'Blog',
-      pageId: '588031c1e65d4dfa9d58e2492c9c1b7e'
+      pageId: '3d50e0f234ba44418e241d5a526135bc'
     },    
     {
       title: 'About',
-      pageId: 'cf2ae3c4839e4e09a1b4a33cc600c409'
+      pageId: '99c01c6cce2f4f2a8292dce814e68183'
     },
     {
       title: 'Contact',
-      pageId: '5f7e562fef814299b10c68c52e920c9a'
+      pageId: '6bb77517e47d4ad49554d1e9afdb120c'
     }
   ]
 })
