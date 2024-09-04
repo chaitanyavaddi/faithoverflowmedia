@@ -15,18 +15,18 @@ export default siteConfig({
   seotitle: 'A Christian Blog',
 
   // open graph metadata (optional)
-  description: 'This is a demo website created with wr8.',
+  description: 'Christ Died For Your Sins - Join us as we explain this Truth for the rest of our lives',
 
   // social usernames (optional)
-  twitter: 'jotzilla',
+  // twitter: 'jotzilla',
   // github: 'verfasor',
-  linkedin: 'mighil',
+  // linkedin: 'faithoverflow',
   // newsletter: '#', // optional newsletter URL
-  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: 'channel/UCFA3KrOL8_uDK0I6kky0Uvg', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://wr8.in/page-icon.png',
+  defaultPageIcon: 'https://i.imgur.com/wZ0Cqde.png',
   defaultPageCover: 'https://wr8.in/page-cover.jpg',
   defaultPageCoverPosition: 0.5,
 
