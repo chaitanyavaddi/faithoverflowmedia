@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'wr8 Demo',
-  domain: 'demo.wr8.in',
-  author: 'Mighil',
-  seotitle: 'Demo Site Created with wr8',
+  name: 'FaithOverflow',
+  domain: 'faithoverflow.com',
+  author: 'Joy Stephen',
+  seotitle: 'A Christian Blog',
 
   // open graph metadata (optional)
   description: 'This is a demo website created with wr8.',
 
   // social usernames (optional)
   twitter: 'jotzilla',
-  github: 'verfasor',
+  // github: 'verfasor',
   linkedin: 'mighil',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
