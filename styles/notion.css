@@ -606,3 +606,9 @@ font-size: 0.9em;
 .notion-block-260baa77f1e1428b97fb14ac99c7c385 {
   display: none;
 }
+
+
+/*Disable blog view in Homepage*/
+.notion-block-55dc0de163b7492089dd382c7e5f96a0 .notion-gallery {
+  display: none;
+}
