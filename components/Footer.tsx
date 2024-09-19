@@ -33,7 +33,7 @@ export const FooterImpl: React.FC = () => {
 
   return (
     <footer className={styles.footer}>
-      <div className={styles.copyright}><a href="https://wr8.in">wr8</a> by <a href="https://twitter.com/jotzilla">{config.author}</a></div>
+      <div className={styles.copyright}><a href="https://faithoverflow.com">Managed</a> by <a href="https://wa.me/send/?phone=917013908751&text&type=phone_number&app_absent=0">{config.author}</a></div>
 
       <div className={styles.settings}>
         {hasMounted && (
@@ -109,7 +109,7 @@ export const FooterImpl: React.FC = () => {
             <FaEnvelopeOpenText />
           </a>
         )}
-
+        
         {config.youtube && (
           <a
             className={styles.youtube}
